@@ -2,4 +2,4 @@ I followed this week's lab assignment. I mainly used a power supply to power the
 
 Also, (this is not pictured here haha) but I tried to use a potentiometer to power and control the motor but it didn't work. It worked with the LED but I think the way I set it up for the motor was either not correct or I was using the wrong parts to do this. 
  
-![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
+![]
