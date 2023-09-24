@@ -4,3 +4,4 @@ Also, (this is not pictured here haha) but I tried to use a potentiometer to pow
  
 [Link to Video Demonstration](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%201/IMG_7651.MOV) 
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%201/Screenshot%202023-09-24%20at%203.23.52%20PM.png)
+![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%201/Screenshot%202023-09-24%20at%203.24.08%20PM.png)
