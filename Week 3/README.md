@@ -4,9 +4,14 @@ Otherwise, here are some vids/pics of what I did
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%203/Screenshot%202023-09-25%20at%203.30.56%20PM.png)
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%203/Screenshot%202023-09-25%20at%203.31.07%20PM.png)
 
+</br> 
+</br> 
 
 The motor: </br> 
 This lab was a bit more challenging for me. I think it was mainly because it is sometimes hard for me to figure out if the code is doing what it is supposed to if the physical components are changing when connecting to the arduino. There was some variation to the motor but I wasn’t sure if it was because of the code or a random arduino/physical glitch. 
+</br> 
+</br> 
+
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%203/Screenshot%202023-09-25%20at%203.31.19%20PM.png)
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%203/Screenshot%202023-09-25%20at%203.40.08%20PM.png)
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%203/Screenshot%202023-09-25%20at%203.40.19%20PM.png)
