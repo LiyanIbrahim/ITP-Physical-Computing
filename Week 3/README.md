@@ -4,6 +4,12 @@ Otherwise, here are some vids/pics of what I did
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%203/Screenshot%202023-09-25%20at%203.30.56%20PM.png)
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%203/Screenshot%202023-09-25%20at%203.31.07%20PM.png)
 
+https://github.com/LiyanIbrahim/ITP-Physical-Computing/assets/51895025/fbb3ed2b-aa17-4209-91a6-72ef4945ba60
+
+https://github.com/LiyanIbrahim/ITP-Physical-Computing/assets/51895025/65ade983-930d-48da-9dc2-18c41e323d35
+
+
+
 </br> 
 </br> 
 
@@ -15,3 +21,11 @@ This lab was a bit more challenging for me. I think it was mainly because it is 
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%203/Screenshot%202023-09-25%20at%203.31.19%20PM.png)
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%203/Screenshot%202023-09-25%20at%203.40.08%20PM.png)
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Week%203/Screenshot%202023-09-25%20at%203.40.19%20PM.png)
+
+
+
+
+https://github.com/LiyanIbrahim/ITP-Physical-Computing/assets/51895025/77175cb5-047b-4c70-b9bc-c56a71c327ee
+
+
+
