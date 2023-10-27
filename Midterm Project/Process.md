@@ -7,5 +7,6 @@
 2. The mirror when someone is close but not touching </br> 
 3. The mirror when someone touches it
 </p>
+<p> Sound: We orderded the adafruit audio fx mini sound board to use since we can add long(er) sounds to it and operate it from the  </p>
 
 <h3> 3. Decorations </h3>
