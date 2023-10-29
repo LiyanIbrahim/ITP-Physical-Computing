@@ -7,6 +7,7 @@
 2. The mirror when someone is close but not touching </br> 
 3. The mirror when someone touches it
 </p>
-<p> Sound: We orderded the adafruit audio fx mini sound board to use since we can add long(er) sounds to it and operate it from the  </p>
+<p> Sound: We orderded the adafruit audio fx mini sound board to use since we can add long(er) sounds to it but we later found out that it was not compatable with the specific arduino we had. But because it was "smart" sound board, this meant that we can load the board with sound files and control the output with buttons connected to the pins of the sound board. For example, T00.ogg will be played when the button connected to pin 0 is being pressed. With that information, we used the arduino to mimic a button by outputting a digital high intot the sound board pin. Finding the sounds (in addition to decorating) lead us to the idea of the bloody marry narrative since the narrative/game relied heavily on sound and is played using a mirror. </p>
 
 <h3> 3. Decorations </h3>
+<p> Since the project is halloween themed, we wanted to use fake blood to give into the "haunted look" as well as the spider webs to show age. We also wanted to invite the audience to touch the mirror so we decided to use the fake blood to write a message, prompting people to touch it.</p>
