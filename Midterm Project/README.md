@@ -5,4 +5,4 @@
 <p> Our interactive mirror can detect someones presence near the mirror and if someone dares to touch it and will respond accordingly</p>
 
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Midterm%20Project/Screenshot%202023-10-29%20at%208.01.56%20PM.png)
-<p>More about the process [here!](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Midterm%20Project/Process.md) </p>
+More about the process [here!](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Midterm%20Project/Process.md) 
