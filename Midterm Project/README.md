@@ -6,3 +6,5 @@
 
 ![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Midterm%20Project/Screenshot%202023-10-29%20at%208.01.56%20PM.png)
 More about the process [here!](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Midterm%20Project/Process.md) 
+
+https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/Midterm%20Project/IMG_8255%202.MOV
