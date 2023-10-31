@@ -2,7 +2,8 @@
 
 <h3> Lab 1</h3>
 <p> This lab was exciting since it made me understand and work with serial communication (& it worked!)</p>
-
+![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/P5%20x%20Arduino/Screenshot%202023-10-30%20at%208.59.03%20PM.png)
+![](https://github.com/LiyanIbrahim/ITP-Physical-Computing/blob/main/P5%20x%20Arduino/Screenshot%202023-10-30%20at%208.59.11%20PM.png)
 <h3> Lab 2 </h3>
 <p> This lab worked and I got the changes in the pot values to reflect on the program & graph but there was a lag(?) in reading the values and I did not know why. I tried to go back and completely rewire the arduino and it still had a lag. The lag was mainly between when I changed the pot, the value on the screen would take a bit to reflect that change</p>
 
