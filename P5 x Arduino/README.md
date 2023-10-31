@@ -19,6 +19,11 @@ https://github.com/LiyanIbrahim/ITP-Physical-Computing/assets/51895025/32930f81-
 https://github.com/LiyanIbrahim/ITP-Physical-Computing/assets/51895025/8f1b623f-b2cb-4f2b-88d9-02ce5b2c5e16
 
 
+https://github.com/LiyanIbrahim/ITP-Physical-Computing/assets/51895025/fddacfc1-39a1-4b91-a64c-7bd4adbe1ac4
+
+
+
+
 <h3> Lab 3</h3>
 <p> This lab was very exciting but I faced the most issues in it. I could not get the mouse coordinates to control the LEDs and I tried to restart arduino and then load p5.js again to see if the issue was with that and it still would not work. The LED was wired correctly because I then ran a simple arduino code to see if it would light up and it did. And it also worked with I was controlling the LED with arduino by writing "H" or "L". But writing in "H"/"L" on p5.js did not work either. I kept getting a referance error of "ReferenceError: L is not defined" 
 </p>
